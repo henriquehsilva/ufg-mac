@@ -12,12 +12,10 @@ O Bacharelado em Matemática Aplicada e Computacional tem como principal objetiv
 
 # Objetivo
 
-A interdisciplinaridade é uma característica essencial do curso, refletindo-se transversalmente nas disciplinas e por meio de atividades optativas e de extensão. A articulação entre teoria e prática é ativamente promovida, incentivando a resolução de problemas reais e preparando os estudantes para desafios profissionais.- [48490-matematica-aplicada-e-computacional]. [Refêrencia](https://ime.ufg.br/p/48490-matematica-aplicada-e-computacional/)
+A interdisciplinaridade é uma característica essencial do curso, refletindo-se transversalmente nas disciplinas e por meio de atividades optativas e de extensão. A articulação entre teoria e prática é ativamente promovida, incentivando a resolução de problemas reais e preparando os estudantes para desafios profissionais. [Refêrencia](https://ime.ufg.br/p/48490-matematica-aplicada-e-computacional/)
 
 # Desafios
 
 | Data       | Desafio                                                                                                                           |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 17-04-2024 | [Challenge 1: Defective Equipment](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
-| 18-04-2024 | [Challende 1: Convert Text Matrix](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Convert%20Text%20Matrix) |
-| 22-03-2024 | [Challende 2: Titanic - Machine Learning from Disaster](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%202) |
+| 17-04-2024 | [Atividade 1 - Lógica de Programação](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
