@@ -16,6 +16,10 @@ A interdisciplinaridade é uma característica essencial do curso, refletindo-se
 
 # Desafios
 
-| Data       | Desafio                                                                                                                           |
+| Período       | Matéria                                                                                                                           |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 17-04-2024 | [Atividade 1 - Lógica de Programação](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+| Primeiro | [CÁLCULO 1A ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+| Primeiro | [FUNDAMENTOS DE MATEMÁTICA ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+| Primeiro | [GEOMETRIA ANALÍTICA ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+| Primeiro | [INTRODUÇÃO A COMPUTAÇÃO ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+
