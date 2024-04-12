@@ -18,8 +18,8 @@ A interdisciplinaridade é uma característica essencial do curso, refletindo-se
 
 | Período    | Disciplina |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Primeiro | [CÁLCULO 1A ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
-| Primeiro | [FUNDAMENTOS DE MATEMÁTICA ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
-| Primeiro | [GEOMETRIA ANALÍTICA ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
-| Primeiro | [INTRODUÇÃO A COMPUTAÇÃO ](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
+| Primeiro | [CÁLCULO 1A ](https://github.com/henriquehsilva/ufg-mac/tree/ed30cf7ca469d1039cae5086016aa35ca5a3a45f/disciplinas/C%C3%A1lculo%201A) |
+| Primeiro | [FUNDAMENTOS DE MATEMÁTICA ](https://github.com/henriquehsilva/ufg-mac/tree/ed30cf7ca469d1039cae5086016aa35ca5a3a45f/disciplinas/Fundamentos%20de%20Matem%C3%A1tica) |
+| Primeiro | [GEOMETRIA ANALÍTICA ](https://github.com/henriquehsilva/ufg-mac/tree/ed30cf7ca469d1039cae5086016aa35ca5a3a45f/disciplinas/Geometria%20Anal%C3%ADtica) |
+| Primeiro | [INTRODUÇÃO A COMPUTAÇÃO ](https://github.com/henriquehsilva/ufg-mac/tree/ed30cf7ca469d1039cae5086016aa35ca5a3a45f/disciplinas/Introdu%C3%A7%C3%A3o%20a%20Computa%C3%A7%C3%A3o) |
 
