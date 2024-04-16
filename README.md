@@ -1,6 +1,6 @@
 # UFG-MAC
 
-<h3>Curso de Matemática Aplicada e Computacional IME-UFG.</h3>
+Curso de Matemática Aplicada e Computacional IME-UFG.
 <div>
     <img src="./logo-ime.svg" style="margin-right: 10px" alt="drawing" width="130"/>
     <img src="./logo-ufg.svg" alt="drawing" width="150"/>
