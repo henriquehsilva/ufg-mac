@@ -17,7 +17,7 @@ int equilatero(float lado_a, float lado_b, float lado_c) {
 }
 
 int isoceles(float lado_a, float lado_b, float lado_c) {
-    if ((lado_a == lado_b | lado_a == lado_c | lado_b == lado_c) {
+    if (lado_a == lado_b | lado_a == lado_c | lado_b == lado_c) {
         return 1;
     } else {
         return 0;
