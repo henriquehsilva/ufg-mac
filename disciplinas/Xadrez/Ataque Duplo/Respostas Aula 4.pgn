@@ -1,0 +1,90 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Brancas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4n1k1/p2p2bp/2n5/3q3N/6Q1/2P5/P4N1P/KB6 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1. Qxg7+ $3 Nxg7 2. Nf6+ Kf7 3. Nxd5 $18 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Brancas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p2q1k2/1p5p/2p1Pbp1/2Np4/1P3pP1/P1PQ1P1P/4RK2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1. e6+ $1 Bxe6 2. Ne5+ Ke7 3. Nxd7 $18 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Pretas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp2qppp/2n2n2/4p1B1/2Pp4/P3PN2/1PQ1BPPP/3RK2R b K - 0 1"]
+[PlyCount "5"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1... d3 $1 2. Bxd3 e4 3. Be2 exf3 $19 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Brancas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkb1r/ppp1pppp/8/3n1b2/8/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 0 1"]
+[PlyCount "5"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1. e4 $1 Bxe4 2. Qa4+ Nc6 3. Qxe4 $18 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Brancas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br1r2/b4pk1/p1pq2pp/3pN3/7Q/2PB3P/PP2RPP1/4R1K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1. Nxg6 $1 fxg6 2. Re7+ Rf7 3. Rxa7 Rxa7 4. Qd4+ $1 Kg8 5. Qxa7 $18 *
+
+[Event "?"]
+[Site "?"]
+[Date "2020.06.11"]
+[Round "?"]
+[White "Brancas Jogam"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2b2/1p3p1k/7p/1P5q/3BNPn1/1P4Q1/3R2P1/2r2RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.06.11"]
+
+{[#]} 1. Qxg4 $1 Rxf1+ 2. Kxf1 Rc1+ 3. Kf2 Qxg4 4. Nf6+ Kh8 5. Nxg4+ $18 *
+
